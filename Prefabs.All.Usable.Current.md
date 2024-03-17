@@ -1,3 +1,10 @@
+## Prefabs.All.Usable.Current
+These results were provided using [Prefab Sniffer](https://umod.org/plugins/prefab-sniffer)
+By: [MrBlue](https://umod.org/user/MrBlue)
+
+* These are all the usable prefabs from the game
+* Updated after each forced update
+* Do with this information what you will
 ````
  assets/prefabs/gamemodes/vanilla.prefab
  assets/bundled/prefabs/autospawn/collectable/berry-black/berry-black-collectable.prefab
