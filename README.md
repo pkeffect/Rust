@@ -1,9 +1,8 @@
 # rust
 Random information on Rust survival game.
 
-
 https://rustnode.net/ is where we host a couple of Rust servers you can check out.
-We have active admins and no pay-to-play.
+We have active admins and no pay-to-play. 
 
 Vist our [Discord](https://discord.gg/ZmqrmcZmgy) with any questions or suggestions. 
 
