@@ -1,5 +1,5 @@
-# NPCs LISTS
-## SCIENTISTS
+## NPC Prefabs
+### SCIENTISTS
 ````
 assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab
 assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab
@@ -23,7 +23,7 @@ assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_roamtethered.pre
 assets/rust.ai/agents/npcplayer/humannpc/tunneldweller/npc_tunneldweller.prefab
 assets/rust.ai/agents/npcplayer/humannpc/underwaterdweller/npc_underwaterdweller.prefab
 ````
-## MISSION PROVIDERS & SHOPKEEPERS
+### MISSION PROVIDERS & SHOPKEEPERS
 ````
 assets/prefabs/npc/bandit/shopkeepers/bandit_conversationalist.prefab - Heli Vendor
 assets/prefabs/npc/bandit/shopkeepers/stables_shopkeeper.prefab - Stable Shopkeeper
@@ -38,7 +38,7 @@ assets/prefabs/npc/bandit/missionproviders/missionprovider_stables_a.prefab - St
 assets/prefabs/npc/bandit/missionproviders/missionprovider_stables_b.prefab - Hunter
 
 ````
-## OTHER NPCs
+### OTHER NPCs
 ````
 assets/prefabs/npc/gingerbread/gingerbread_dungeon.prefab
 assets/prefabs/npc/gingerbread/gingerbread_meleedungeon.prefab
@@ -48,19 +48,19 @@ assets/prefabs/npc/scarecrow/scarecrow_dungeon.prefab
 assets/prefabs/npc/scarecrow/scarecrow_dungeonnoroam.prefab
 assets/rust.ai/agents/zombie/zombie.prefab
 ````
-## SOUNDS
+### SOUNDS
 ````
 assets/prefabs/npc/murderer/sound/breathing.prefab
 assets/prefabs/npc/murderer/sound/death.prefab
 assets/content/sound/ambience/flies/fly-swarm.asset
 ````
-## SENTRYS/SAMS
+### SENTRYS/SAMS
 ````
 assets/content/properties/protection/samsitedeployed.asset
 assets/content/properties/protection/samstatic.asset
 assets/content/props/sentry_scientists/sentry.bandit.static.prefab
 ````
-## ANIMALS
+### ANIMALS
 ````
 assets/rust.ai/agents/bear/bear.prefab
 assets/rust.ai/agents/boar/boar.prefab
